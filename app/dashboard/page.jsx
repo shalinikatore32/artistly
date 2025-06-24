@@ -111,7 +111,7 @@ export default function ManagerDashboard() {
                       </td>
                       <td className="px-4 py-3">
                         <Link
-                          href={`/explore/${artist.id}`}
+                          href={``}
                           className="bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700 transition"
                         >
                           View
