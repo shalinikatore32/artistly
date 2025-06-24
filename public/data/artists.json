@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "Aarav Mehta",
+    "category": "Singer",
+    "genre": "Pop",
+    "languages": ["Hindi", "English"],
+    "location": "Mumbai",
+    "feeRange": "₹20,000 - ₹40,000",
+    "available": true,
+    "image": "/images/singer.jpg",
+    "bio": "Aarav is a versatile singer with 7+ years of experience performing live at concerts and weddings."
+  },
+  {
+    "id": "2",
+    "name": "Diya Kapoor",
+    "category": "Dancer",
+    "genre": "Contemporary",
+    "languages": ["Hindi", "Punjabi"],
+    "location": "Delhi",
+    "feeRange": "₹15,000 - ₹25,000",
+    "available": false,
+    "image": "/images/dancer.jpg",
+    "bio": "Trained in classical and contemporary styles, Diya brings grace and energy to every stage she performs on."
+  },
+  {
+    "id": "3",
+    "name": "DJ Raghav",
+    "category": "DJ",
+    "genre": "EDM",
+    "languages": ["English", "Hindi"],
+    "location": "Bangalore",
+    "feeRange": "₹30,000 - ₹60,000",
+    "available": true,
+    "image": "/images/dj.png",
+    "bio": "Raghav has headlined multiple college festivals and private events with his high-energy EDM mixes."
+  },
+  {
+    "id": "4",
+    "name": "Kavya Joshi",
+    "category": "Speaker",
+    "genre": "Motivational",
+    "languages": ["English", "Marathi"],
+    "location": "Pune",
+    "feeRange": "₹10,000 - ₹20,000",
+    "available": true,
+    "image": "/images/speaker.png",
+    "bio": "Kavya is a TEDx speaker known for her powerful talks on mental health and career growth."
+  },
+  {
+    "id": "5",
+    "name": "Rahul Sharma",
+    "category": "Singer",
+    "genre": "Classical",
+    "languages": ["Hindi"],
+    "location": "Chennai",
+    "feeRange": "₹18,000 - ₹30,000",
+    "available": false,
+    "image": "/images/singer.jpg",
+    "bio": "Classically trained vocalist specializing in bhajans and semi-classical music for spiritual gatherings."
+  },
+  {
+    "id": "6",
+    "name": "Meera Desai",
+    "category": "Dancer",
+    "genre": "Folk",
+    "languages": ["Gujarati", "Hindi"],
+    "location": "Ahmedabad",
+    "feeRange": "₹12,000 - ₹22,000",
+    "available": true,
+    "image": "/images/dancer.jpg",
+    "bio": "Meera is a celebrated folk dancer who specializes in Garba and has performed in over 100 regional events."
+  },
+  {
+    "id": "7",
+    "name": "DJ Aryan",
+    "category": "DJ",
+    "genre": "Bollywood",
+    "languages": ["Hindi", "English"],
+    "location": "Hyderabad",
+    "feeRange": "₹25,000 - ₹50,000",
+    "available": false,
+    "image": "/images/dj.png",
+    "bio": "Aryan spins infectious Bollywood remixes and is a go-to DJ for sangeet, parties, and wedding receptions."
+  },
+  {
+    "id": "8",
+    "name": "Neha Bhatia",
+    "category": "Speaker",
+    "genre": "Entrepreneurship",
+    "languages": ["English", "Hindi"],
+    "location": "Noida",
+    "feeRange": "₹20,000 - ₹35,000",
+    "available": true,
+    "image": "/images/speaker.png",
+    "bio": "Neha is a startup mentor and speaker who helps young entrepreneurs build MVPs and pitch with confidence."
+  }
+]
